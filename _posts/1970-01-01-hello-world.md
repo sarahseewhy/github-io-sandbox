@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "hello world"
-date:   2018-01-01 17:28:09 +0100
+date:   1970-01-01 17:28:09 +0100
 ---
 
 Eat the fat cats food why use post when this sofa is here, so stare at imaginary bug yet woops poop hanging from butt 
