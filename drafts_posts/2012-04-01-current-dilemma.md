@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Introducing: current dilemma"
 date:   2012-04-01 10:01:09 +0100
 ---

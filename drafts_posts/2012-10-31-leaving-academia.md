@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "So long academia"
 date:   2012-10-31
 ---
