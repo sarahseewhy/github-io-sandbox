@@ -1,6 +1,6 @@
 ---
 title:  "whoami"
-date:   2018-11-14 16:55:09 +0100
+date:   2018-11-14
 ---
 
 A profound question – made deceptively simple on the command line:

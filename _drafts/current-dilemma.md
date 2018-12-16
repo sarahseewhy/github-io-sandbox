@@ -1,6 +1,6 @@
 ---
 title:  "Introducing: current dilemma"
-date:   2012-04-01 10:01:09 +0100
+date:   2012-04-01
 ---
 
 The current dilemma I’m facing is whether to begin this business of writing at all. Evidently I’ve made a decision. <!-- more -->
